@@ -26,13 +26,13 @@ See the link for the pre-concert event [here](https://www.ctm-festival.de/festiv
 - 15:00 **Welcome and Introduction of »Studio Quantum«** -  [[👤 Jan Rohlf]] (Artistic Director, CTM) und [[👤 Anna Job]] (Project Lead, Studio Quantum)
 - 15:10 **Introduction to Quantum Computing** - Prof. [[👤 Oliver Benson]] (Humboldt University) (15-20“), followed by discussion with Prof. [[👤 Gesche Joost]] (University of Arts Berlin)
 - 16:00 **Quantum Computer Music. What the heck?** - [[👤 Eduardo Reck Miranda]]
-- 17:30 **Performance and Talk** - [[👤 Edy Fung]] and [[👤 Muiredach O‘Riain]] in conversation with [[👤Sara Greavu]]
+- 17:30 **Performance and Talk** - [[👤 Edy Fung]] and [[👤 Muiredach O‘Riain]] in conversation with [[👤 Sara Greavu]]
 
 #### Concert - 19:00
 
 - [[🎵 Swirling Qubits]]
 	- **Performers:**
-	- [[👤Federico Visi]] - [[💾 Q1synth]] gestural controllers
+	- [[👤 Federico Visi]] - [[💾 Q1synth]] gestural controllers
 	- [[👤 Eduardo Reck Miranda]] & [[👤 Paulo Itaborai]] - [[💾 Q1synth]] software
 
 
