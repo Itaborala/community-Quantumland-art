@@ -18,7 +18,7 @@ Real-Time Quantum Markov Chain MIDI Generator/Listener
 - v0.4 -> Polyphonic Version - [[👤 Hari Vignesh Shaji]] ([[💾 PaulisMIDI|💾 QuPoly]] Jul 2023)
 - v0.5 -> Full Refactoring - [[👤 Paulo Itaborai]] + [[👤 Brian Siegelwax]] ([[💾 PaulisMIDI|💾 PaulisMIDI]] Oct 2023)
 
-
+This project had several names, and will appear with those different names above in different press releases.
 #### Related Academic Work
 
 [[📝 Teaching Qubits to Sing_ Mission Impossible?]]

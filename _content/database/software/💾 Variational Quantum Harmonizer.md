@@ -11,6 +11,8 @@ Other developers and contributors to the code:
 
 System for the Sonification of Variational Quantum Algorithms in real time.
 
+Source code available at [https://github.com/iccmr-quantum/VQH](https://github.com/iccmr-quantum/VQH):
+
 Related academic work:
 
 [[📝 Variational Quantum Harmonizer_ Generating Chord Progressions and Other Sonification Methods with the VQE Algorithm]]
