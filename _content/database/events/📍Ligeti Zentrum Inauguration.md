@@ -8,8 +8,8 @@ Contributors:
 [[🔬 Center for Quantum Technologies and Applications]]
 
 Performers:
-[[👤 Eduardo Reck Miranda]]
-[[👤 Paulo Itaborai]]
+[[👤 Rafal Zalech]] - Prepared MIDI Violin
+[[👤 Eduardo Reck Miranda]] & [[👤 Paulo Itaborai]] - Electronics
 [[👥 Contemporary Chamber Orchestra Elbe]]
 
 Conductor: 
