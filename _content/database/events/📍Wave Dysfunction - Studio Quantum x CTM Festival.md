@@ -16,7 +16,7 @@ Audio Recordings:
 The [25th CTM Festival](https://www.ctm-festival.de/festival-2024/welcome), in collaboration with Goethe-Institut's [Studio Quantum](https://www.goethe.de/prj/lqs/en/index.html) project, has programmed a Quantum Computer Music performance, following up the concert that occurred in 2022 in London [[📍Sounding Qubits]], 
 For this event, they have also commissioned a magazine article [[📰Quantum Computer Music. What the Heck?]], which describes the developments made from December 2022 to January 2024.
 
-The music performances ran algotithms in real hardware, as part of a collaboration with [[🏢 IQM]]
+The music performances ran algorithms in real hardware, as part of a collaboration with IQM in Finland.
 
 ### Programme
 

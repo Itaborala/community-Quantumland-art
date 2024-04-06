@@ -1,7 +1,7 @@
 ---
 year: "2023"
 ---
-[[🔬 Interdisciplinary Centre for Computer Music Research]]
+Interdisciplinary Centre for Computer Music Research - University of Plymouth
 _by_ [[👤 Paulo Itaborai]]
 
 Master Thesis

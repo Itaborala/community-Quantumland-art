@@ -4,8 +4,9 @@ location: Hamburg, Germany
 venue: Ligeti Zentrum
 ---
 Contributors:
-[[🏢 Moth Quantum]]
-[[🔬 Center for Quantum Technologies and Applications]]
+Moth Quantum
+Center for Quantum Technologies and Applications - DESY
+
 
 Performers:
 [[👤 Rafal Zalech]] - Prepared MIDI Violin

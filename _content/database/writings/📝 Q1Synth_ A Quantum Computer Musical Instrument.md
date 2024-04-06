@@ -3,8 +3,8 @@ year: "2023"
 ---
 [[👤 Eduardo Reck Miranda]]<sup>1,2</sup>, [[👤 Peter Thomas]]<sup>1</sup> and [[👤 Paulo Itaborai]]<sup>1</sup>
 
-<sup>1</sup>[[🔬 Interdisciplinary Centre for Computer Music Research]]
-<sup>2</sup> [[🏢 Quantinuum]]
+<sup>1</sup> Interdisciplinary Centre for Computer Music Research
+<sup>2</sup> Quantinuum
 
 
 _Appl. Sci._ **2023**, _13_(4), 2386; [https://doi.org/10.3390/app13042386](https://doi.org/10.3390/app13042386)

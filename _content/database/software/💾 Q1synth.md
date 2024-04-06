@@ -16,8 +16,8 @@ version history:
 
 Prototype -> November 2022: [https://iccmr-q1synth-proto.cephasteom.co.uk/](https://iccmr-q1synth-proto.cephasteom.co.uk/)
 1.0 -> April 2023: [https://iccmr-q1synth.cephasteom.co.uk/](https://iccmr-q1synth.cephasteom.co.uk/)
-2.0 -> June 2023 (Comissioned by [[🏢 Moth Quantum]]): [https://q1synth.mothquantum.com/](https://q1synth.mothquantum.com/)
-3.0 -> (in development at [[🏢 Moth Quantum]])
+2.0 -> June 2023 (Comissioned by Moth Quantum): [https://q1synth.mothquantum.com/](https://q1synth.mothquantum.com/)
+3.0 -> (in development at Moth Quantum)
 
 Related Academic work:
 
