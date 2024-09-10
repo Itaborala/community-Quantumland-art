@@ -1,7 +1,7 @@
 ---
 date: 2023-10-05 to 2023-10-06
 ---
-[https://indico.desy.de/event/38609/](https://indico.desy.de/event/38609/)
+[https://indico.desy.de/event/38609/](https://indico.desy.de/event/38609/) [[archive](https://web.archive.org/web/20240910104820/https://indico.desy.de/event/38609/)]
 
 ### About
 
@@ -18,14 +18,14 @@ ISQCMC II is a follow-up from the [first symposium in 2021](https://iccmr-quant
 
 **Executive team**
 
-- [[👤 OCH]] (CEIS20, Portugal)
+- [[👤 Omar Costa Hamido|👤 OCH]] (CEIS20, Portugal)
 - [[👤 Paulo Itaborai]] (ICCMR, UK)
 - [[👤 Tim Schwägerl]] (DESY, Germany)
 
 **paper session hosts**
 
 - [[👤 Tim Schwägerl]]
-- [[👤 OCH]]
+- [[👤 Omar Costa Hamido|👤 OCH]]
 - [[👤 Paulo Itaborai]]
 - [[👤 Eduardo Reck Miranda]]
 - [[👤 Hari Vignesh Shaji]]
@@ -43,6 +43,9 @@ ISQCMC II is a follow-up from the [first symposium in 2021](https://iccmr-quant
 [[🎵 ReVeR]]
 
 [[🎵 _Equations of Coltrane]]
+
+### Proceedings
+[https://isqcmc.github.io/Proceedings](https://isqcmc.github.io/Proceedings)
 
 ### Papers
 
