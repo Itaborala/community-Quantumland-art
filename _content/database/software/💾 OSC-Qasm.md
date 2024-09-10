@@ -1,7 +1,9 @@
 ---
 year: "2022"
 ---
-_creators_ [[👤 OCH]] & [[👤 Paulo Itaborai]]
+[https://github.com/quantumland-art/OSC-Qasm](https://github.com/quantumland-art/OSC-Qasm)
+
+_developed by_ [[👤 OCH]] & [[👤 Paulo Itaborai]]
 
 A simple cross-platform OSC Python-based interface for executing Qasm code. Or a simple way to connect creative programming environments like Max ([[💾 The QAC Toolkit]]) and Pd with real quantum hardware, using the OSC protocol.
 
@@ -10,3 +12,4 @@ _OSC-Qasm_ works in a Server-Client logic. The Server side hosts a OSC python s
 ### Related academic work:
 [[📝 OSC-Qasm_ Interfacing Music Software with Quantum Computing]]
 [[📝 Q1Synth_ A Quantum Computer Musical Instrument]]
+
