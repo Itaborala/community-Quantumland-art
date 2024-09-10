@@ -18,14 +18,14 @@ ISQCMC II is a follow-up from the [first symposium in 2021](https://iccmr-quant
 
 **Executive team**
 
-- [[👤 Omar Costa Hamido|👤 OCH]] (CEIS20, Portugal)
+- [[👤 OCH]] (CEIS20, Portugal)
 - [[👤 Paulo Itaborai]] (ICCMR, UK)
 - [[👤 Tim Schwägerl]] (DESY, Germany)
 
 **paper session hosts**
 
 - [[👤 Tim Schwägerl]]
-- [[👤 Omar Costa Hamido|👤 OCH]]
+- [[👤 OCH]]
 - [[👤 Paulo Itaborai]]
 - [[👤 Eduardo Reck Miranda]]
 - [[👤 Hari Vignesh Shaji]]
