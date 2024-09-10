@@ -1,11 +1,14 @@
 ---
 date: 2023-04-01
+year: "2023"
 ---
 _by_ [[👤 OCH]] and [[👤 Paulo Itaborai]]
 
 [Artificial Intelligence in Music, Sound, Art and Design](https://link.springer.com/book/10.1007/978-3-031-29956-8)(EvoMUSART 2023)
 
 Part of the book series: [Lecture Notes in Computer Science](https://www.springer.com/series/558) ((LNCS,volume 13988))
+
+[[preprint](https://arxiv.org/abs/2212.01615)]
 
 ### Abstract
 
