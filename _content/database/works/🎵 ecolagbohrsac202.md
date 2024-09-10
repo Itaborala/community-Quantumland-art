@@ -1,4 +1,4 @@
 ---
 year: "2022"
 ---
-by [[👤 Atay Ilgun]]
+_by_ [[👤 Atay Ilgun]]
