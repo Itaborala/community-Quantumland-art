@@ -1,7 +1,7 @@
 ---
 year: "2022"
 ---
-_creator_ [[👤 Paulo Itaborai]]
+_developed by_ [[👤 Paulo Itaborai]]
 
 Available for download at: [https://pypi.org/project/quantumaudio/](https://pypi.org/project/quantumaudio/)
 Documentanion: [https://quantumaudio.readthedocs.io/en/latest/](https://quantumaudio.readthedocs.io/en/latest/)
