@@ -4,7 +4,7 @@ location: Berlin, Germany
 venue: Radialsystem
 ---
 Event Link:
-[https://www.ctm-festival.de/festival-2024/programme/schedule/event/wave-dysfunction](https://www.ctm-festival.de/festival-2024/programme/schedule/event/wave-dysfunction)
+[https://www.ctm-festival.de/festival-2024/programme/schedule/event/wave-dysfunction](https://www.ctm-festival.de/festival-2024/programme/schedule/event/wave-dysfunction) [[archive](https://web.archive.org/web/20240910113552/https://www.ctm-festival.de/festival-2024/programme/schedule/event/wave-dysfunction)]
 
 Audio Recordings:
 [https://soundcloud.com/ctm-festival/ctm-2024-studio-quantum-wave-dysfunction](https://soundcloud.com/ctm-festival/ctm-2024-studio-quantum-wave-dysfunction)
@@ -13,8 +13,8 @@ Audio Recordings:
 **Wave Dysfunction** - by  [[👤 Eduardo Reck Miranda]] & QuTune Collective
 
 
-The [25th CTM Festival](https://www.ctm-festival.de/festival-2024/welcome), in collaboration with Goethe-Institut's [Studio Quantum](https://www.goethe.de/prj/lqs/en/index.html) project, has programmed a Quantum Computer Music performance, following up the concert that occurred in 2022 in London [[📍Sounding Qubits]], 
-For this event, they have also commissioned a magazine article [[📰Quantum Computer Music. What the Heck?]], which describes the developments made from December 2022 to January 2024.
+The [25th CTM Festival](https://www.ctm-festival.de/festival-2024/welcome), in collaboration with Goethe-Institut's [Studio Quantum](https://www.goethe.de/prj/lqs/en/index.html) project, has programmed a Quantum Computer Music performance, following up the concert that occurred in 2022 in London [[📍 Sounding Qubits]], 
+For this event, they have also commissioned a magazine article [[📰 Quantum Computer Music. What the Heck?]], which describes the developments made from December 2022 to January 2024.
 
 The music performances ran algorithms in real hardware, as part of a collaboration with IQM in Finland.
 
@@ -35,7 +35,6 @@ See the link for the pre-concert event [here](https://www.ctm-festival.de/festiv
 	- [[👤 Federico Visi]] - [[💾 Q1synth]] gestural controllers
 	- [[👤 Eduardo Reck Miranda]] & [[👤 Paulo Itaborai]] - [[💾 Q1synth]] software
 
-
 - [[🎵 ReVeR]]
 	- **Performers:**
 	- [[👤 Paulo Itaborai]] - Live coding with [[💾 quantumaudio]] module
@@ -50,4 +49,3 @@ See the link for the pre-concert event [here](https://www.ctm-festival.de/festiv
 - [[🎵 Mind the Qubits]]
 	- **Performers:**
 	- [[👤 Colin Harrington]] & [[👤 Eduardo Reck Miranda]] - Brain-Computer Music Interface
-
