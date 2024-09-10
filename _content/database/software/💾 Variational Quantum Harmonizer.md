@@ -1,8 +1,8 @@
 ---
 aliases:
-  - VQH
+  - 💾 VQH
 ---
-creators: [[👤 Paulo Itaborai]] and [[👤 Tim Schwägerl]]
+_developed by_ [[👤 Paulo Itaborai]] and [[👤 Tim Schwägerl]]
 
 Other developers and contributors to the code:
 [[👤 Arianna Crippa]]
