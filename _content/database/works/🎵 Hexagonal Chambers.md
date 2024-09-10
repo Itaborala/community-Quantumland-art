@@ -1,7 +1,7 @@
 ---
 year: "2023"
 ---
-_for_ Zen and [[💾 Variational Quantum Harmonizer|VQH]]
+_for_ Zen and [[💾 Variational Quantum Harmonizer|💾 VQH]]
 
 _by_ [[👤 Peter Thomas|👤 Cephas Teom]] & [[👤 Paulo Itaborai]]
 
