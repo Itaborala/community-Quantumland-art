@@ -3,7 +3,7 @@ date: 2024-01-30
 location: Berlin, Germany
 venue: Einstein Center Digital Future
 ---
-[Event Announcement link](https://www.digital-future.berlin/en/events/events/news/konzert-quantum-tunes-mind-and-wiggle/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7545a49c4d50c1b3b605edcbea66c0d4)
+[Event Announcement link](https://www.digital-future.berlin/en/events/events/news/konzert-quantum-tunes-mind-and-wiggle/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7545a49c4d50c1b3b605edcbea66c0d4) [[archive](https://web.archive.org/web/20240910105016/https://www.digital-future.berlin/en/events/events/news/konzert-quantum-tunes-mind-and-wiggle/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=7545a49c4d50c1b3b605edcbea66c0d4)]
 
 ## Description
 As quantum computing technology looms on the horizon, on January 30th, 2024, the Einstein Center Digital Future (ECDF) presents an unprecedented performance of music created with quantum computers at the University of Plymouth’s Interdisciplinary Centre for Computer Music Research in collaboration with the Wearable Computing Group of Berlin University of the Arts and ECDF.
